@@ -88,7 +88,7 @@ def main(args):
 
 
 
-        # TODO 3: calculate the max softmax score of baseline (no perturbation & no T scaling)
+        # TODO 4: calculate the max softmax score of baseline (no perturbation & no T scaling)
         max_score: float  = None
         g2.write("{}, {}, {}\n".format(T,epsilon, max_score))
 
