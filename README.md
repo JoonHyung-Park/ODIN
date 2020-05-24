@@ -6,7 +6,7 @@ Implementation of 'Enhancing The Reliability Of Out-Of-Distribution Image Detect
   * numpy
   * pytorch
   * torchvision
-  * matplotlib
+
  
 * Command
   - python3 main.py --epsilon [EPSILON] --temperature [TEMPERATURE] --out_dataset [OUT_DATASET]
